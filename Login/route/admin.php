@@ -1,0 +1,1 @@
+Route:: get("/",[AdminController:: class "dashboard"]);
